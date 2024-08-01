@@ -1,0 +1,11 @@
+ SFDX: Run Apex Tests.
+Set Breakpoints and Checkpoints
+you can Enter sfdx checkpoint in the search box, then choose SFDX: Toggle Checkpoint.
+
+=======
+SFDX: Turn On Apex Debug Log for Replay Debugger.
+enter apex test in the search box, then choose SFDX: Run Apex Tests.
+enter sfdx get in the search box, then choose SFDX: Get Apex Debug Logs.... After a few seconds, you are prompted to select a debug log to download.
+
+
+Run apex test  => get log  =>   right click=> launch apex replay  debugger for currenct file
